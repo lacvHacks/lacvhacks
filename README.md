@@ -57,5 +57,11 @@ Here are some ideas to get you started:
 
 </div>
 
+<p align="center">
+<a href="https://codered.eccouncil.org/certificate/c17db9c6-1e03-4fee-81d6-10e392025af3?logged=true" target='_blank'><img height='75' style='border:400px;height:400px;' src="https://eccommonstorage.blob.core.windows.net/codered/certificates/c17db9c6-1e03-4fee-81d6-10e392025af3.png" border='0' alt='Hi Brow' /></a>
+</p>
 
+<p align="center">
+<a href="https://codered.eccouncil.org/certificate/1e6fcaee-673b-4015-a43a-bc40c90bc1b5?logged=true" target='_blank'><img height='75' style='border:400px;height:400px;' src="https://eccommonstorage.blob.core.windows.net/codered/certificates/1e6fcaee-673b-4015-a43a-bc40c90bc1b5.png" border='0' alt='Hi Brow' /></a>
+</p>
 
