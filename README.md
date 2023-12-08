@@ -43,7 +43,6 @@ Here are some ideas to get you started:
         <a href="https://www.twitter.com/lacvhacks" target="_blank" rel="noreferrer"><img src="https://news.topusainsights.com/wp-content/uploads/2023/07/twitter-x-logo.jpg" width="32" height="32" /></a> 
         <a href="https://www.youtube.com/channel/lacvartes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> 
         <a href="https://www.twitch.tv/lacvhacks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
-        <a href="http://www.medium.com/@lacvhacks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
         <a href='https://github.com/' target='_blank'><img height='75' style='border:50px;height:50px;' src="https://www.onlygfx.com/wp-content/uploads/2020/05/hacked-stamp-5-624x437.png" border='0' alt='Hi Brow' /></a>
     </p>
 </a>
