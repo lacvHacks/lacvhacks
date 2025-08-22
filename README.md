@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lacvHacks@duck.com">
   <button style="background-color:#4285F4; color:white; padding:12px 24px; border:none; border-radius:4px; font-size:16px; cursor:pointer;">
-     📪📫📩✉️Enviar correo
+     📫 Enviar correo
   </button>
 </a>
 
