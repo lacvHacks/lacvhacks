@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# <a href="https://wa.me/+593963457418" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F1770161.png&f=1&nofb=1&ipt=42016f3c18547783eb911f13e7c43f3359f7f67ba970d9537120c347191863fa&ipo=images" width="60" height="60" /> </a> &nbsp; Ing. Luis Caicedo ⚛︎ Software Engineer &nbsp; <a href="https://wa.me/+593963457418" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngmart.com%2Ffiles%2F11%2FHacker-PNG-Transparent.png&f=1&nofb=1&ipt=ed6af9289ad0a9fd2084c819779bf2d2bcc9b8098a225c2a484cdc7d266cc631&ipo=images" width="60" height="45" /> </a> 
+# <a href="https://wa.me/+593963457418" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F1770161.png&f=1&nofb=1&ipt=42016f3c18547783eb911f13e7c43f3359f7f67ba970d9537120c347191863fa&ipo=images" width="60" height="60" /> </a> &nbsp; LACV ⚛︎ Software Engineer &nbsp; <a href="https://wa.me/+593963457418" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngmart.com%2Ffiles%2F11%2FHacker-PNG-Transparent.png&f=1&nofb=1&ipt=ed6af9289ad0a9fd2084c819779bf2d2bcc9b8098a225c2a484cdc7d266cc631&ipo=images" width="60" height="45" /> </a> 
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lacvHacks@duck.com">
   <button style="background-color:#4285F4; color:white; padding:12px 24px; border:none; border-radius:4px; font-size:16px; cursor:pointer;">
