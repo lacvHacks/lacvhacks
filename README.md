@@ -62,15 +62,15 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-<a href="https://ibb.co/1t0wcJLN" target='_blank'><img height='75' style='border:400px;height:400px;' src="https://eccommonstorage.blob.core.windows.net/codered/certificates/c17db9c6-1e03-4fee-81d6-10e392025af3.png" border='0' alt='Hi Brow' /></a>
+<a href="https://eccommonstorage.blob.core.windows.net/codered/certificates/c17db9c6-1e03-4fee-81d6-10e392025af3.png" target='_blank'><img height='75' style='border:400px;height:400px;' src="https://ibb.co/1t0wcJLN" border='0' alt='Ethical Hacking Essentials (EHE)' /></a>
 </p>
 
 <p align="center">
-<a href="https://eccommonstorage.blob.core.windows.net/codered/certificates/1e6fcaee-673b-4015-a43a-bc40c90bc1b5.png" target='_blank'><img height='75' style='border:400px;height:400px;' src="https://ibb.co/j90QMV5m" border='0' alt='Hi Brow' /></a>
+<a href="https://eccommonstorage.blob.core.windows.net/codered/certificates/1e6fcaee-673b-4015-a43a-bc40c90bc1b5.png" target='_blank'><img height='75' style='border:400px;height:400px;' src="https://ibb.co/j90QMV5m" border='0' alt='Digital Forensics Essentials (DFE)' /></a>
 </p>
 
 <p align="center">
-<a href="https://eccommonstorage.blob.core.windows.net/codered/certificates/47c21ff2-dde2-456d-8378-d3c76725895c.png" target='_blank'><img height='75' style='border:400px;height:400px;' src="https://eccommonstorage.blob.core.windows.net/codered/certificates/47c21ff2-dde2-456d-8378-d3c76725895c.png" border='0' alt='Hi Brow' /></a>
+<a href="https://eccommonstorage.blob.core.windows.net/codered/certificates/47c21ff2-dde2-456d-8378-d3c76725895c.png" target='_blank'><img height='75' style='border:400px;height:400px;' src="https://eccommonstorage.blob.core.windows.net/codered/certificates/47c21ff2-dde2-456d-8378-d3c76725895c.png" border='0' alt='Network Defense Essentials (NDE)' /></a>
 </p>
 
 
