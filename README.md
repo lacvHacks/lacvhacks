@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-<a href="https://eccommonstorage.blob.core.windows.net/codered/certificates/c17db9c6-1e03-4fee-81d6-10e392025af3.png" target='_blank'><img height='75' style='border:400px;height:400px;' src="https://ibb.co/1t0wcJLN" border='0' alt='Ethical Hacking Essentials (EHE)' /></a>
+<a href="https://eccommonstorage.blob.core.windows.net/codered/certificates/c17db9c6-1e03-4fee-81d6-10e392025af3.png" target='_blank'><img height='75' style='border:400px;height:400px;' src="https://i.ibb.co/rRQ19fmh/Picture1.png" border='0' alt='Ethical Hacking Essentials (EHE)' /></a>
 </p>
 
 <p align="center">
-<a href="https://eccommonstorage.blob.core.windows.net/codered/certificates/1e6fcaee-673b-4015-a43a-bc40c90bc1b5.png" target='_blank'><img height='75' style='border:400px;height:400px;' src="https://ibb.co/j90QMV5m" border='0' alt='Digital Forensics Essentials (DFE)' /></a>
+<a href="https://eccommonstorage.blob.core.windows.net/codered/certificates/1e6fcaee-673b-4015-a43a-bc40c90bc1b5.png" target='_blank'><img height='75' style='border:400px;height:400px;' src="https://i.ibb.co/MywtV8hr/Picture2.png" border='0' alt='Digital Forensics Essentials (DFE)' /></a>
 </p>
 
 <p align="center">
