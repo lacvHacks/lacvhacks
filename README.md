@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<a href="https://ibb.co/j90QMV5m" target='_blank'><img height='75' style='border:400px;height:400px;' src="https://eccommonstorage.blob.core.windows.net/codered/certificates/1e6fcaee-673b-4015-a43a-bc40c90bc1b5.png" border='0' alt='Hi Brow' /></a>
+<a href="https://eccommonstorage.blob.core.windows.net/codered/certificates/1e6fcaee-673b-4015-a43a-bc40c90bc1b5.png" target='_blank'><img height='75' style='border:400px;height:400px;' src="https://ibb.co/j90QMV5m" border='0' alt='Hi Brow' /></a>
 </p>
 
 <p align="center">
