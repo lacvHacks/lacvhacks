@@ -41,8 +41,10 @@
 <div style="text-align:center;">
 
 <p align="center">
-<a href="https://github.com/lacvHacks" align="center"><img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mouredev&langs_count=8&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%Languages](https://github-stats-extended.vercel.app/api/top-langs?username=torvalds&layout=compact&langs_count=25&theme=dark_github)" alt="Top Languages" /></a>
-</p>    
+  <a href="https://github.com/lacvHacks">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=torvalds&layout=compact&langs_count=25&theme=dark_github" alt="Top Languages" />
+  </a>
+</p>
 
 <p align="center">
 <br><a href="http://www.github.com/lacvHacks"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rexim&stroke=ffffff&background=1c1917&ring=ffffff&fire=FFFF00&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ef4239&sideLabels=00FFFF&dates=FFA500&hide_border=true" /></a>
